@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FormatiefAI1A/1.0.0": {
+        "runtime": {
+          "FormatiefAI1A.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormatiefAI1A/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

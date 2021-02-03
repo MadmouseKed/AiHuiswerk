@@ -1,0 +1,13 @@
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.exe
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.deps.json
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.runtimeconfig.json
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.runtimeconfig.dev.json
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.dll
+D:\Programeren\FormatiefAI1A\bin\Debug\netcoreapp3.1\FormatiefAI1A.pdb
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.csprojAssemblyReference.cache
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.AssemblyInfoInputs.cache
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.AssemblyInfo.cs
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.csproj.CoreCompileInputs.cache
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.dll
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.pdb
+D:\Programeren\FormatiefAI1A\obj\Debug\netcoreapp3.1\FormatiefAI1A.genruntimeconfig.cache
